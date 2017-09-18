@@ -58,4 +58,4 @@ async def on_message(message):
         await client.send_message(message.channel, teams[0])
         await client.send_message(message.channel, teams[1])
 
-client.run('MzU5MDA3MjQyOTI3ODY1ODU2.DKAxKA.GfC1o7Qp4vmqsweCjXu0bVb9oSI')
+client.run('')
